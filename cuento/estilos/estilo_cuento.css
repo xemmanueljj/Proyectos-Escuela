@@ -1,0 +1,66 @@
+body{
+	margin:auto;
+	width: auto;
+	height: auto;
+}
+header{
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom:40px;
+	width:80%;
+	height:80%;
+	background:#E6E6E6;
+	border:double 6px;
+	border-color:#000000;
+	text-align:center;
+	color: #000000;
+	font-family: Century Gothic;
+	text-transform: uppercase;
+	text-shadow: #6E6E6E 2px 3px ;
+	letter-spacing: 6px;
+}
+
+section{
+margin:auto;
+width: auto;
+height: auto;
+
+}
+
+article{
+margin-top: 25px;
+margin-right: auto;
+margin-left: auto;
+margin-bottom:20px;
+width: auto;
+height: auto;
+border-color: black;
+border:double 6px;
+line-height: 1.2em;
+}
+
+#cuento article{
+-webkit-column-count:3;
+-moz-column-count:3;
+column-count:3;
+column-gap: 3em;
+column-rule: double black 8px;
+background-color: #E6E6E6;	
+color: white;
+font-family: Agency FB;
+font-size: 21px;
+text-align: justify;
+color: #000000;
+}
+
+
+
+ol{
+font-size:40px;
+font-family: Century Gothic;
+text-align: center;
+	text-transform: uppercase;
+	text-shadow: #6E6E6E 2px 3px ;
+	letter-spacing: 6px;
+}

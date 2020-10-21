@@ -1,0 +1,35 @@
+header{
+	font-family: Century Gothic;
+	background-color: pink;
+	margin: 30px 350px 20px 400px;
+	border:double;
+	text-align: center;
+	width:550px;
+}
+section {
+	font-family: Century Gothic;
+	background-color:#54F66D;
+	font-size:16pt;
+	color:#000000;
+	margin-top:30px;
+	margin-left:15px;
+	margin-right:15px;
+	border:double;
+	background-color:#58ACFA;
+}
+
+table{
+	font-size: 15pt;
+	font-family: Century Gothic;
+	border: red 2px solid;
+	margin: 0 auto;
+}
+
+th{
+	border: red 2px;
+	border-collapse:collapse;
+}
+td{
+	border: red 2px solid;
+	border-collapse:collapse;
+}
